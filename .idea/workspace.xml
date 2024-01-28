@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7061d72c-c274-48d3-bc58-0709fb05eb67" name="Changes" comment="comitando parcialmente">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculardora github.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Divisao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multiplicaçao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Subtracao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TesteCalculadora.java" afterDir="false" />
-    </list>
+    <list default="true" id="7061d72c-c274-48d3-bc58-0709fb05eb67" name="Changes" comment="Concluído" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +61,28 @@
       <option name="project" value="LOCAL" />
       <updated>1706463336722</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="comitando parcialmente">
+      <created>1706463507777</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706463507777</updated>
+    </task>
+    <task id="LOCAL-00003" summary="comitando parcialmente">
+      <created>1706463602441</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706463602441</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Concluído">
+      <created>1706463699010</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706463699010</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="comitando parcialmente" />
-    <option name="LAST_COMMIT_MESSAGE" value="comitando parcialmente" />
+    <MESSAGE value="Concluído" />
+    <option name="LAST_COMMIT_MESSAGE" value="Concluído" />
   </component>
 </project>
